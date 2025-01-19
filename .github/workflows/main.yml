@@ -34,4 +34,4 @@ jobs:
             rm -rf /var/www/html/*
             rm -rf /var/www/html/.git
             rm -rf /var/www/html/.github
-            git clone https://github.com/setiasurya/HeroBiz /var/www/html/  
+            git clone https://github.com/alvinsenjaya/HeroBiz /var/www/html/
